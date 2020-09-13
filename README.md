@@ -1,3 +1,10 @@
+# NOTE
+
+This is a fork of the Lovelace card only, so that the rpeository can be ingtegrated with HACS.
+
+Original documentation is below.
+
+
 # Xiaomi mi flora and Flower care integration
 
 The Home Assistant custom component uses Flower Care&trade; Smart Monitor to retrieve flower information (http://www.huahuacaocao.com/product).
